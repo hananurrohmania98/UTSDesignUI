@@ -3,4 +3,4 @@
 
 ### Design UI and Export To Android Studio And PLay with Emulator
 Ini adalah tampilannya
-![img]screenshoot/ss11.png
+![Gambar 1](screenshoot/ss11.png)
